@@ -1,0 +1,1 @@
+print("l live in nepal currently in japan")
