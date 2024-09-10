@@ -8,3 +8,5 @@ def name():
 
 # hello my name is alok kumar sah i am software engineer
 
+for i in range(3):
+    print(i)
